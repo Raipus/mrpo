@@ -6,4 +6,4 @@
 
 Аскинема игры "Геометрическая прогрессия": https://asciinema.org/a/ieOEVTi62LLZplzCMYsCd6EsD
 
-Значок Maintainability: https://i.imgur.com/E3k9MWx.png
+Значок Maintainability: https://i.imgur.com/l1QYIkx.png
